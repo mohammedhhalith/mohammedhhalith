@@ -44,7 +44,14 @@ I'm an Artificial Intelligence and Data Science student passionate about buildin
 
 - [AI Hand Gesture Recognition](https://github.com/mohammedhhalith/AI-HAND-GESTURE-RECOGNITION)  
   Hand gesture recognition using Python, OpenCV, and MediaPipe.
-
+- [Data-Cleaning-Visualising-Project](https://github.com/mohammedhhalith/Data-Cleaning-Visualization-Project)  
+  A Python project for cleaning, preprocessing, and visualizing datasets using Pandas and Matplotlib.
+- [Predictive-Modeling-Using-Machine-Learning](https://github.com/mohammedhhalith/Predictive-Modeling-Using-Machine-Learning)  
+  Build a model to predict outcomes based on given data.
+- [Exploratory-Data-Analysis-EDA-Project](https://github.com/mohammedhhalith/Exploratory-Data-Analysis-EDA-Project)  
+  An exploratory data analysis project using Python to analyze datasets, discover patterns, and generate meaningful insights through visualization.
+- [Real-world-Data-Project](https://github.com/mohammedhhalith/Real-world-Data-Project-)  
+  This project focuses on analyzing real world data and building a machine learning model to predict the exact values. 
 
 ---
 
