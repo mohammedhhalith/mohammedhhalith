@@ -53,7 +53,6 @@ I'm an Artificial Intelligence and Data Science student passionate about buildin
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedhhalith&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhhalith&layout=compact&theme=dark)
-
 ---
 
 ⭐ Thanks for visiting my profile!
