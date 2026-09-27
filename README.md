@@ -3,7 +3,7 @@
 
 ### 🎓 Artificial Intelligence & Data Science Student | 💻 AI & Data Science Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mohammed-halith006)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-halith006/)
 
 [![GitHub](https://img.shields.io/badge/GITHUB-Profile-black?style=for-the-badge&logo=github)](https://github.com/mohammedhhalith)
 
